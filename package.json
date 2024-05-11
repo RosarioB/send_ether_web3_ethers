@@ -1,0 +1,19 @@
+{
+  "name": "send_ether_web3_ethers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "basic": "tsc && node dist/basic.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.12.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "typescript": "^5.4.5"
+  }
+}
