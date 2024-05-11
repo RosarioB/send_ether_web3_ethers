@@ -1,4 +1,4 @@
-# send_ether_web3_ethers
+# web3
 Create a file .env in the root with the following informations:
 
 ```
