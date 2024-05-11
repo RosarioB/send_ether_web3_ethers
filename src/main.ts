@@ -20,7 +20,7 @@ const main = async () => {
     .estimateGas(
       {
         from: signer.address,
-        to: "0xAED01C776d98303eE080D25A21f0a42D94a86D9c",
+        to: "0x350a97Aa777CcfE518197C34342C5bA262825B35",
         value: web3.utils.toWei("0.0001", "ether"),
       },
       "latest",
